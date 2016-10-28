@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="automation" uuid="0c9437f9-7c12-40e9-8193-075bc804f6b7">
+      <secret-storage>master_key</secret-storage>
+      <user-name>r2d2user</user-name>
+      <schema-pattern>AUTOMATION.*</schema-pattern>
+      <default-schemas>innodb.*</default-schemas>
+    </data-source>
+  </component>
+</project>
